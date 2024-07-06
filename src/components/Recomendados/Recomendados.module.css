@@ -1,0 +1,14 @@
+.recomendados {
+    margin: 0 48px;
+}
+
+.listaRecomendados {
+    display: flex;
+    gap: 48px;
+}
+
+.titulo {
+    font-family: var(--fonte-secundaria);
+    font-size: 48px;
+    margin: 48px 0;
+}
